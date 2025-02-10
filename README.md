@@ -30,7 +30,7 @@
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
               <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul>
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
              <ul><li> Surat Keterangan Aktif Sekolah (ASLI)</li></ul>
              <ul><li>Surat Pernyataan Tidak Menerima Beasiswa</li></ul>
             <ul><li>Permohonan diberikan kepada perwakilan UPZ Sekolah masing-masing</li></ul>
@@ -45,9 +45,10 @@
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
               <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul>            <ul><li>Surat Keterangan Aktif Kuliah (ASLI)</li></ul>
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>                                                                                            <ul><li>Surat Keterangan Aktif Kuliah (ASLI)</li></ul>
             <ul><li>Surat Pernyataan Tidak Menerima Beasiswa dari Sumber Lainnya</li></ul>
-            <ul><li>Permohonan diajukan ke UPZ di Kampus masing-masing</li></ul>
+            <ul><li>Permohonan diajukan ke Melalui Perguruan Tinggi masing-masing (Dalam Provinsi)</li></ul>
+            <ul><li>Permohonan bisa langsung diajukan ke BAZNAS Provinsi Untuk Yang Kuliah Diluar Provinsi)</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan S1" target="_blank">Hubungi Admin Whatsapp</a>
         </div>
        <div class="submenu" onclick="toggle('PENDIDIKAN_S2')">Pendidikan S2</div>
@@ -59,7 +60,7 @@
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
               <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul>
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <ul><li> SK Mengajar / SK Homebase dari Pesantren</li></ul>
             <ul><li> Surat Keterangan Aktif Kuliah (ASLI)</li></ul>
             <ul><li>Surat Pernyataan Tidak Menerima Beasiswa</li></ul>
@@ -74,9 +75,9 @@
               <ul><li>Nomor Handphone (HP) aktif</li></ul>
               <ul><li>Fotokopi Kartu Keluarga (KK)</li></ul>
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
-              <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
+              <ul><li>Surat Keterangan Tidak Mampu (ASLI) Optional</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul>  
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>  
             <ul><li>Calling Visa</li></ul>
             <ul><li>Visa</li></ul>
             <ul><li>Passport</li></ul>
@@ -96,7 +97,7 @@
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
               <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul> 
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul> 
              <ul><li> Surat Keterangan Rawat Inap Rumah Sakit (ASLI)</li></ul>
              <ul><li>  Foto Pasien (optional)</li></ul>
              <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Kesehatan Berobat" target="_blank">Hubungi Admin Whatsapp</a>
@@ -110,7 +111,7 @@
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
               <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul>
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <ul><li> Surat Keterangan Rawat Inap Rumah Sakit (ASLI)</li></ul>   
             <ul><li>  Surat Keterangan Hutang/ tunggakan BPJS terbaru (optional)</li></ul>
             <ul><li>  Foto Pasien (optional)</li></ul>
@@ -129,7 +130,7 @@
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
               <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul>
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <ul><li> Rincian Anggaran Biaya Usaha (RAB)</li></ul>
             <ul><li>  Denah Lokasi Usaha/ Rumah</li></ul>
             <ul><li>  Foto Usaha</li></ul>
@@ -148,7 +149,7 @@
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
               <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul>
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <ul><li> Denah Lokasi Rumah </li></ul>
             <ul><li> Surat Penyataan yang menerangkan tanah milik sendiri / Hibah</li></ul>
             <ul><li>  Surat Keterangan dari kepolisian (jika kebakaran)	</li></ul>
@@ -163,7 +164,7 @@
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
               <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul>
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
           
              <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Kemanusiaan Konsumtif" target="_blank">Hubungi Admin Whatsapp</a>
       
@@ -181,7 +182,7 @@
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
               <ul><li>Surat Keterangan Tidak Mampu (ASLI)</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
-              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah / BANK Nagari atau Perbankan Lainnya)</li></ul>
+              <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Dakwah dan Advokasi" target="_blank">Hubungi Admin Whatsapp</a>
         
         </div>
@@ -203,5 +204,3 @@
             }
         }
     </script>
-</body>
-</html>
