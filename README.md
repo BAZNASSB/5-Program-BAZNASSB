@@ -35,7 +35,8 @@
              <ul><li>Surat Pernyataan Tidak Menerima Beasiswa</li></ul>
             <ul><li>Permohonan diberikan kepada perwakilan UPZ Sekolah masing-masing</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan SMA" target="_blank">Hubungi Admin Whatsapp</a>
-        </div>
+         </div>
+    </div>
         <div class="submenu" onclick="toggle('PENDIDIKAN_S1')">Pendidikan S1</div>
         <div id="PENDIDIKAN_S1" class="hidden">
               <ul><li>Surat Rekomendasi dari BAZNAS Kab/Kota (ASLI)</li></ul>
@@ -51,6 +52,7 @@
             <ul><li>Permohonan bisa langsung diajukan ke BAZNAS Provinsi Untuk Yang Kuliah Diluar Provinsi)</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan S1" target="_blank">Hubungi Admin Whatsapp</a>
         </div>
+    </div>
        <div class="submenu" onclick="toggle('PENDIDIKAN_S2')">Pendidikan S2</div>
         <div id="PENDIDIKAN_S2" class="hidden">
               <ul><li>Surat Rekomendasi dari BAZNAS Kab/Kota (ASLI)</li></ul>
@@ -67,7 +69,7 @@
             <ul><li>Bukti penghasilan dari yayasan/ slip gaji</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan SMA" target="_blank">Hubungi Admin Whatsapp</a>
         </div>
-        
+    </div>
        <div class="submenu" onclick="toggle('PENDIDIKAN_LN')">Pendidikan Luar Negeri</div>
         <div id="PENDIDIKAN_LN" class="hidden">
             
@@ -83,9 +85,10 @@
             <ul><li>Visa</li></ul>
             <ul><li>Passport</li></ul>
             <ul><li>Tiket Keberangkatan</li></ul>
-            <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan SMA" target="_blank">Hubungi Admin Whatsapp</a>
+            <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan Luar Negeri" target="_blank">Hubungi Admin Whatsapp</a>
             </div>
          </div>
+         
     <div class="program" onclick="toggle('KESEHATAN')">KESEHATAN</div>
     <div id="KESEHATAN" class="hidden">
         <div class="submenu" onclick="toggle('BANTUAN_Berobat')">Bantuan Pengobatan</div>
