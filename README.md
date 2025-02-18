@@ -67,6 +67,7 @@
             <ul><li>Bukti penghasilan dari yayasan/ slip gaji</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan SMA" target="_blank">Hubungi Admin Whatsapp</a>
         </div>
+        
        <div class="submenu" onclick="toggle('PENDIDIKAN_LN')">Pendidikan Luar Negeri</div>
         <div id="PENDIDIKAN_LN" class="hidden">
             
@@ -83,7 +84,8 @@
             <ul><li>Passport</li></ul>
             <ul><li>Tiket Keberangkatan</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan SMA" target="_blank">Hubungi Admin Whatsapp</a>
-        </div>
+            </div>
+         </div>
     <div class="program" onclick="toggle('KESEHATAN')">KESEHATAN</div>
     <div id="KESEHATAN" class="hidden">
         <div class="submenu" onclick="toggle('BANTUAN_Berobat')">Bantuan Pengobatan</div>
