@@ -93,7 +93,7 @@
               <ul><li>Nomor Handphone (HP) aktif</li></ul>
               <ul><li>Fotokopi Kartu Keluarga (KK)</li></ul>
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
-              <ul> <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
+              <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
               <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul> 
              <ul><li> Surat Keterangan Rawat Inap Rumah Sakit (ASLI)</li></ul>
