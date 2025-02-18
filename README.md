@@ -101,8 +101,9 @@
              <ul><li> Surat Keterangan Rawat Inap Rumah Sakit (ASLI)</li></ul>
              <ul><li>  Foto Pasien (optional)</li></ul>
              <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Kesehatan Berobat" target="_blank">Hubungi Admin Whatsapp</a>
-        </div>
-        </div>
+          </div>
+    </div>
+        
       <div class="submenu" onclick="toggle('BANTUAN_Hutang')">Bantuan Hutang Pengobatan</div>
         <div id="BANTUAN_Hutang" class="hidden">
              <ul><li>Surat Rekomendasi dari BAZNAS Kab/Kota (ASLI)</li></ul>
@@ -117,7 +118,7 @@
             <ul><li>  Surat Keterangan Hutang/ tunggakan BPJS terbaru (optional)</li></ul>
             <ul><li>  Foto Pasien (optional)</li></ul>
            <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Kesehatan Hutang" target="_blank">Hubungi Admin Whatsapp</a>
-        </div>
+          </div>
     </div>
     
     <div class="program" onclick="toggle('EKONOMI')">EKONOMI</div>
