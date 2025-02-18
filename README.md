@@ -58,7 +58,7 @@
               <ul><li>Nomor Handphone (HP) aktif</li></ul>
               <ul><li>Fotokopi Kartu Keluarga (KK)</li></ul>
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
-               <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
+              <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
               <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <ul><li> SK Mengajar / SK Homebase dari Pesantren</li></ul>
@@ -75,7 +75,7 @@
               <ul><li>Nomor Handphone (HP) aktif</li></ul>
               <ul><li>Fotokopi Kartu Keluarga (KK)</li></ul>
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
-               <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari Optional</li></ul>
+              <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari Optional</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
               <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>  
             <ul><li>Calling Visa</li></ul>
@@ -109,7 +109,7 @@
               <ul><li>Nomor Handphone (HP) aktif</li></ul>
               <ul><li>Fotokopi Kartu Keluarga (KK)</li></ul>
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
-               <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
+              <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
               <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <ul><li> Surat Keterangan Rawat Inap Rumah Sakit (ASLI)</li></ul>   
@@ -128,7 +128,7 @@
               <ul><li>Nomor Handphone (HP) aktif</li></ul>
               <ul><li>Fotokopi Kartu Keluarga (KK)</li></ul>
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
-               <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
+              <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
               <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <ul><li> Rincian Anggaran Biaya Usaha (RAB)</li></ul>
@@ -147,7 +147,7 @@
               <ul><li>Nomor Handphone (HP) aktif</li></ul>
               <ul><li>Fotokopi Kartu Keluarga (KK)</li></ul>
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
-               <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
+              <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
               <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <ul><li> Denah Lokasi Rumah </li></ul>
@@ -162,7 +162,7 @@
               <ul><li>Nomor Handphone (HP) aktif</li></ul>
               <ul><li>Fotokopi Kartu Keluarga (KK)</li></ul>
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
-               <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
+              <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
               <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
           
@@ -180,7 +180,7 @@
               <ul><li>Nomor Handphone (HP) aktif</li></ul>
               <ul><li>Fotokopi Kartu Keluarga (KK)</li></ul>
               <ul><li>Fotokopi Kartu Tanda Penduduk (KTP)</li></ul>
-               <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
+              <ul><li>Surat Keterangan Tidak Mampu Resmi (ASLI) dikeluarkan oleh Kelurahan/Wali Nagari</li></ul>
               <ul><li>Surat Keterangan Jamaah Masjid (ASLI)</li></ul>
               <ul><li>Fotokopi Buku Rekening (diutamakan Bank Nagari Syari'ah)</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Dakwah dan Advokasi" target="_blank">Hubungi Admin Whatsapp</a>
