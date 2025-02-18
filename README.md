@@ -87,7 +87,7 @@
             <ul><li>Tiket Keberangkatan</li></ul>
             <a href="https://wa.me/6282387042013?text=Assalamu'alaikum wr.wb.%20Admin,%20saya%20ingin%20info%20Program%20Pendidikan Luar Negeri" target="_blank">Hubungi Admin Whatsapp</a>
             </div>
-         </div>
+
          
     <div class="program" onclick="toggle('KESEHATAN')">KESEHATAN</div>
     <div id="KESEHATAN" class="hidden">
